@@ -1,0 +1,29 @@
+<html>
+<head>
+<link href="css/default.css" rel="stylesheet" type="text/css">
+
+<script src="js/jquery-1.9.1.js"></script>
+<script src="js/jquery-ui-1.10.3.custom.js"></script>
+<script language="javascript" type="text/javascript">
+var patientId = "pippo";
+
+function drawCharts() {
+	gender_chart_data_json = $.ajax({
+		url: "./chartServlet/",
+		dataType:"json",
+		async: false,
+		data: {patientId: patientId}
+	}).responseText;
+	alert(gender_chart_data_json);
+}
+</script>
+</head>
+<body>
+<hgroup>
+   	  <h1> Models and simulation techniques for discovering diabetes influence factors</h1>
+    </hgroup>
+	<div>
+		<div onclick="drawCharts();" align="right">drawCharts</div>
+	</div>
+</body>
+</html>

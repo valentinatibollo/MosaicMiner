@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <Context>
+<Resource name="jdbc/cronica" 
+            global="jdbc/cronica"
+            auth="Container"
+            type="javax.sql.DataSource" 
+            username="mydb"
+            password="mypwd"
+            driverClassName="com.mysql.jdbc.Driver"
+			url="jdbc:mysql://xx.xx.xx.xx:3306/dbname"
+            maxActive="15" 
+            maxIdle="3"/>   
+<Resource name="jdbc/cronicaDev" 
+            global="jdbc/cronicaDev"
+            auth="Container"
+            type="javax.sql.DataSource" 
+            username="mydb"
+            password="mypwd"
+            driverClassName="com.mysql.jdbc.Driver"
+			url="jdbc:mysql://xx.xx.xx.xx:3306/dbname"
+            maxActive="15" 
+            maxIdle="3"/>   
+</Context>
+
