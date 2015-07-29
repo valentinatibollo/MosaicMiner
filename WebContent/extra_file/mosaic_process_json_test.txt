@@ -1,0 +1,1207 @@
+{
+  "_id" : ObjectId("5541e0f2f2a737b5a6061c26"),
+  "concept" : "COMPLICATION",
+  "patients" : [{
+      "patient_num" : 80,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2009-06-12"
+        }]
+    }, {
+      "patient_num" : 329,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2010-06-10"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2013-02-22"
+        }]
+    }, {
+      "patient_num" : 780,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2006-02-03"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2007-11-15"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2014-04-08"
+        }]
+    }, {
+      "patient_num" : 3817,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2008-07-10"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2010-05-18"
+        }]
+    }, {
+      "patient_num" : 3992,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2008-03-15"
+        }]
+    }, {
+      "patient_num" : 4043,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2001-05-29"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2001-07-02"
+        }, {
+          "obs_label" : "Stroke",
+          "start_date" : "2013-09-25"
+        }, {
+          "obs_label" : "DiabeticFoot",
+          "start_date" : "2014-02-07"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2014-02-07"
+        }]
+    }, {
+      "patient_num" : 4154,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2000-11-27"
+        }]
+    }, {
+      "patient_num" : 4404,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2001-12-20"
+        }]
+    }, {
+      "patient_num" : 4499,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2003-11-03"
+        }]
+    }, {
+      "patient_num" : 5121,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2008-04-30"
+        }]
+    }, {
+      "patient_num" : 5353,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2012-06-19"
+        }]
+    }, {
+      "patient_num" : 5647,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2003-03-06"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2003-03-06"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2003-03-27"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2014-06-20"
+        }]
+    }, {
+      "patient_num" : 5781,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2005-03-21"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2006-05-22"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2013-11-11"
+        }]
+    }, {
+      "patient_num" : 6142,
+      "observations" : [{
+          "obs_label" : "DiabeticFoot",
+          "start_date" : "2002-04-19"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2011-05-09"
+        }]
+    }, {
+      "patient_num" : 6202,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2003-06-15"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2003-06-15"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2007-03-15"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2008-01-15"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2012-11-22"
+        }]
+    }, {
+      "patient_num" : 6213,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2009-02-18"
+        }]
+    }, {
+      "patient_num" : 6662,
+      "observations" : [{
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2013-05-08"
+        }]
+    }, {
+      "patient_num" : 6840,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2009-04-03"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2009-04-17"
+        }]
+    }, {
+      "patient_num" : 6906,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "1999-11-19"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2004-04-02"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2008-05-20"
+        }]
+    }, {
+      "patient_num" : 6982,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2011-10-03"
+        }]
+    }, {
+      "patient_num" : 7231,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "1996-06-15"
+        }]
+    }, {
+      "patient_num" : 7562,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2010-06-09"
+        }]
+    }, {
+      "patient_num" : 7631,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2003-03-17"
+        }]
+    }, {
+      "patient_num" : 7800,
+      "observations" : [{
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2009-01-22"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2010-05-28"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2011-04-15"
+        }]
+    }, {
+      "patient_num" : 8054,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2013-11-11"
+        }]
+    }, {
+      "patient_num" : 8128,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "1998-02-24"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2005-03-07"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2010-04-23"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2012-02-18"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2012-02-27"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2012-06-22"
+        }]
+    }, {
+      "patient_num" : 8148,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2010-09-30"
+        }]
+    }, {
+      "patient_num" : 8440,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2003-01-15"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2003-01-15"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2004-06-09"
+        }]
+    }, {
+      "patient_num" : 8548,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "1999-08-03"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2000-03-30"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2002-02-07"
+        }, {
+          "obs_label" : "DiabeticFoot",
+          "start_date" : "2014-02-06"
+        }]
+    }, {
+      "patient_num" : 8785,
+      "observations" : [{
+          "obs_label" : "Stroke",
+          "start_date" : "2008-09-05"
+        }, {
+          "obs_label" : "Stroke",
+          "start_date" : "2008-09-05"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2008-10-21"
+        }]
+    }, {
+      "patient_num" : 8976,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2012-03-04"
+        }]
+    }, {
+      "patient_num" : 9033,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2009-04-28"
+        }]
+    }, {
+      "patient_num" : 9276,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2011-10-27"
+        }]
+    }, {
+      "patient_num" : 9585,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2010-07-22"
+        }, {
+          "obs_label" : "Stroke",
+          "start_date" : "2011-09-06"
+        }]
+    }, {
+      "patient_num" : 9647,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2006-09-28"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2011-12-15"
+        }]
+    }, {
+      "patient_num" : 9802,
+      "observations" : [{
+          "obs_label" : "Nephropathy",
+          "start_date" : "2007-09-28"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2014-04-03"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2014-04-03"
+        }]
+    }, {
+      "patient_num" : 10045,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2004-01-19"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2004-01-23"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2006-09-15"
+        }, {
+          "obs_label" : "Stroke",
+          "start_date" : "2010-06-15"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2011-08-15"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2012-02-03"
+        }]
+    }, {
+      "patient_num" : 10180,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2011-04-11"
+        }]
+    }, {
+      "patient_num" : 10217,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "1997-06-15"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2000-03-15"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2000-06-30"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2009-08-11"
+        }, {
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2009-09-30"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2009-09-30"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2010-10-27"
+        }, {
+          "obs_label" : "DiabeticFoot",
+          "start_date" : "2014-02-11"
+        }]
+    }, {
+      "patient_num" : 10222,
+      "observations" : [{
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2007-10-02"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2008-04-15"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2008-09-16"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2010-08-26"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2014-05-05"
+        }]
+    }, {
+      "patient_num" : 10535,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2003-03-15"
+        }]
+    }, {
+      "patient_num" : 11084,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2000-11-27"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2005-06-15"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2011-09-27"
+        }]
+    }, {
+      "patient_num" : 11130,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2007-12-15"
+        }]
+    }, {
+      "patient_num" : 11368,
+      "observations" : [{
+          "obs_label" : "Nephropathy",
+          "start_date" : "2008-06-15"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2011-11-09"
+        }]
+    }, {
+      "patient_num" : 11422,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2006-11-21"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2006-12-14"
+        }]
+    }, {
+      "patient_num" : 11567,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2008-11-18"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2009-11-15"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2013-09-03"
+        }]
+    }, {
+      "patient_num" : 11615,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2004-04-16"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2005-10-05"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2005-10-05"
+        }]
+    }, {
+      "patient_num" : 11769,
+      "observations" : [{
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2003-11-15"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2010-06-07"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2010-06-08"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2010-06-15"
+        }, {
+          "obs_label" : "DiabeticFoot",
+          "start_date" : "2014-02-04"
+        }]
+    }, {
+      "patient_num" : 11805,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2008-06-23"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2013-09-04"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2013-09-11"
+        }]
+    }, {
+      "patient_num" : 11823,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2001-05-16"
+        }]
+    }, {
+      "patient_num" : 11887,
+      "observations" : [{
+          "obs_label" : "Stroke",
+          "start_date" : "2009-06-11"
+        }, {
+          "obs_label" : "Stroke",
+          "start_date" : "2009-06-11"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2012-08-30"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2014-03-15"
+        }, {
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2014-07-04"
+        }]
+    }, {
+      "patient_num" : 12550,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2001-12-13"
+        }]
+    }, {
+      "patient_num" : 12743,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2012-01-23"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2013-01-23"
+        }]
+    }, {
+      "patient_num" : 13156,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2002-01-15"
+        }]
+    }, {
+      "patient_num" : 13626,
+      "observations" : [{
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "1996-06-15"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2001-12-15"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2010-02-03"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2010-06-15"
+        }, {
+          "obs_label" : "DiabeticFoot",
+          "start_date" : "2014-02-26"
+        }]
+    }, {
+      "patient_num" : 14146,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2006-12-11"
+        }]
+    }, {
+      "patient_num" : 14256,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2011-12-05"
+        }]
+    }, {
+      "patient_num" : 14287,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2009-06-29"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2013-09-10"
+        }]
+    }, {
+      "patient_num" : 14304,
+      "observations" : [{
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2002-11-26"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2013-10-13"
+        }]
+    }, {
+      "patient_num" : 14370,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2014-04-09"
+        }]
+    }, {
+      "patient_num" : 14387,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2009-04-27"
+        }]
+    }, {
+      "patient_num" : 14564,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2003-06-15"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2003-06-15"
+        }]
+    }, {
+      "patient_num" : 14647,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2009-06-18"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2009-06-18"
+        }]
+    }, {
+      "patient_num" : 14661,
+      "observations" : [{
+          "obs_label" : "Nephropathy",
+          "start_date" : "2009-07-30"
+        }]
+    }, {
+      "patient_num" : 14718,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2012-10-03"
+        }]
+    }, {
+      "patient_num" : 14739,
+      "observations" : [{
+          "obs_label" : "Nephropathy",
+          "start_date" : "2008-03-05"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2008-12-03"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2010-07-07"
+        }]
+    }, {
+      "patient_num" : 14740,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2013-08-01"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2013-08-15"
+        }]
+    }, {
+      "patient_num" : 15082,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2003-07-19"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2007-02-13"
+        }]
+    }, {
+      "patient_num" : 15240,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2012-08-17"
+        }]
+    }, {
+      "patient_num" : 15418,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2006-06-15"
+        }]
+    }, {
+      "patient_num" : 15424,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2003-11-07"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2007-05-23"
+        }]
+    }, {
+      "patient_num" : 15565,
+      "observations" : [{
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2003-06-15"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2005-07-07"
+        }]
+    }, {
+      "patient_num" : 15669,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2007-07-15"
+        }]
+    }, {
+      "patient_num" : 15800,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2010-05-17"
+        }]
+    }, {
+      "patient_num" : 16143,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2008-01-28"
+        }]
+    }, {
+      "patient_num" : 16249,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2009-10-21"
+        }]
+    }, {
+      "patient_num" : 16457,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2005-07-25"
+        }, {
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2012-06-15"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2012-06-15"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2012-12-11"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2013-02-20"
+        }]
+    }, {
+      "patient_num" : 16778,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2005-07-30"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2005-07-30"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2006-02-10"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2006-02-16"
+        }]
+    }, {
+      "patient_num" : 16801,
+      "observations" : [{
+          "obs_label" : "Nephropathy",
+          "start_date" : "2007-07-20"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2010-07-15"
+        }]
+    }, {
+      "patient_num" : 16897,
+      "observations" : [{
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2001-06-15"
+        }]
+    }, {
+      "patient_num" : 16993,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2006-03-31"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2008-09-15"
+        }]
+    }, {
+      "patient_num" : 17181,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2008-04-01"
+        }]
+    }, {
+      "patient_num" : 17262,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2006-04-18"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2006-04-21"
+        }, {
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2008-06-15"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2008-06-15"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2012-07-13"
+        }, {
+          "obs_label" : "DiabeticFoot",
+          "start_date" : "2014-03-11"
+        }]
+    }, {
+      "patient_num" : 17281,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2013-09-23"
+        }]
+    }, {
+      "patient_num" : 17314,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2012-08-15"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2012-10-15"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2014-02-05"
+        }]
+    }, {
+      "patient_num" : 17346,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2006-05-01"
+        }]
+    }, {
+      "patient_num" : 17602,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2009-04-14"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2012-07-05"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2014-03-17"
+        }]
+    }, {
+      "patient_num" : 17724,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2011-12-19"
+        }]
+    }, {
+      "patient_num" : 17738,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2005-10-29"
+        }]
+    }, {
+      "patient_num" : 17881,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2009-10-30"
+        }]
+    }, {
+      "patient_num" : 18054,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2012-02-22"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2013-01-15"
+        }]
+    }, {
+      "patient_num" : 18244,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2005-08-03"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2012-08-31"
+        }]
+    }, {
+      "patient_num" : 18278,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2012-10-23"
+        }]
+    }, {
+      "patient_num" : 18353,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2007-11-15"
+        }]
+    }, {
+      "patient_num" : 18414,
+      "observations" : [{
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "1997-06-05"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2007-11-22"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2007-11-22"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2013-02-05"
+        }]
+    }, {
+      "patient_num" : 18416,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2007-11-06"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2007-12-14"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2007-12-14"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2011-10-15"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2014-01-03"
+        }]
+    }, {
+      "patient_num" : 18542,
+      "observations" : [{
+          "obs_label" : "Stroke",
+          "start_date" : "2012-09-03"
+        }, {
+          "obs_label" : "Stroke",
+          "start_date" : "2012-09-03"
+        }]
+    }, {
+      "patient_num" : 18724,
+      "observations" : [{
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2007-06-15"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2012-04-26"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2012-05-07"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2012-05-11"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2012-05-11"
+        }]
+    }, {
+      "patient_num" : 18943,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2008-11-12"
+        }]
+    }, {
+      "patient_num" : 18971,
+      "observations" : [{
+          "obs_label" : "Nephropathy",
+          "start_date" : "2008-07-24"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2009-01-29"
+        }]
+    }, {
+      "patient_num" : 19014,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2010-01-15"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2010-01-15"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2012-07-12"
+        }]
+    }, {
+      "patient_num" : 19043,
+      "observations" : [{
+          "obs_label" : "Nephropathy",
+          "start_date" : "2012-11-15"
+        }]
+    }, {
+      "patient_num" : 19064,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2009-01-21"
+        }]
+    }, {
+      "patient_num" : 19169,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2012-10-11"
+        }]
+    }, {
+      "patient_num" : 19309,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2011-11-08"
+        }]
+    }, {
+      "patient_num" : 19342,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2009-01-09"
+        }]
+    }, {
+      "patient_num" : 19367,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2009-07-09"
+        }]
+    }, {
+      "patient_num" : 19401,
+      "observations" : [{
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "1987-06-15"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2009-03-30"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2009-03-31"
+        }]
+    }, {
+      "patient_num" : 19405,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2009-05-28"
+        }, {
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2012-01-26"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2012-01-26"
+        }]
+    }, {
+      "patient_num" : 19758,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2009-03-20"
+        }]
+    }, {
+      "patient_num" : 19842,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2010-04-29"
+        }]
+    }, {
+      "patient_num" : 19886,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "1997-12-02"
+        }]
+    }, {
+      "patient_num" : 19960,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2010-11-30"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2012-01-25"
+        }]
+    }, {
+      "patient_num" : 20004,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2010-01-13"
+        }, {
+          "obs_label" : "Stroke",
+          "start_date" : "2010-06-15"
+        }, {
+          "obs_label" : "Stroke",
+          "start_date" : "2010-06-15"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2011-09-29"
+        }]
+    }, {
+      "patient_num" : 20185,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2011-02-11"
+        }]
+    }, {
+      "patient_num" : 20234,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2010-09-16"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2010-09-29"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2011-04-11"
+        }]
+    }, {
+      "patient_num" : 20388,
+      "observations" : [{
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "1997-06-15"
+        }, {
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2010-07-15"
+        }]
+    }, {
+      "patient_num" : 20410,
+      "observations" : [{
+          "obs_label" : "Neuropathy",
+          "start_date" : "2011-01-28"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2011-01-28"
+        }]
+    }, {
+      "patient_num" : 20432,
+      "observations" : [{
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2003-06-15"
+        }]
+    }, {
+      "patient_num" : 20827,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2013-05-27"
+        }]
+    }, {
+      "patient_num" : 20935,
+      "observations" : [{
+          "obs_label" : "Occlusion and Stenosis of Carotid Artery",
+          "start_date" : "2012-03-23"
+        }]
+    }, {
+      "patient_num" : 20946,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2011-04-29"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2011-04-29"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2012-02-23"
+        }]
+    }, {
+      "patient_num" : 20994,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2012-06-25"
+        }]
+    }, {
+      "patient_num" : 21133,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "2009-12-15"
+        }, {
+          "obs_label" : "Chronic Ischemich Eart Disease",
+          "start_date" : "2009-12-15"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2013-11-06"
+        }]
+    }, {
+      "patient_num" : 21213,
+      "observations" : [{
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2014-02-12"
+        }]
+    }, {
+      "patient_num" : 21261,
+      "observations" : [{
+          "obs_label" : "DiabeticFoot",
+          "start_date" : "2011-08-15"
+        }, {
+          "obs_label" : "Fat Liver Disease",
+          "start_date" : "2011-10-12"
+        }, {
+          "obs_label" : "Nephropathy",
+          "start_date" : "2011-10-12"
+        }, {
+          "obs_label" : "Retinopathy",
+          "start_date" : "2011-10-12"
+        }, {
+          "obs_label" : "Peripheral Vascular Disease",
+          "start_date" : "2011-10-12"
+        }, {
+          "obs_label" : "Neuropathy",
+          "start_date" : "2011-10-12"
+        }]
+    }, {
+      "patient_num" : 21294,
+      "observations" : [{
+          "obs_label" : "Retinopathy",
+          "start_date" : "2011-11-18"
+        }]
+    }, {
+      "patient_num" : 21576,
+      "observations" : [{
+          "obs_label" : "Acute Myocardial Infarction",
+          "start_date" : "1997-06-15"
+        }]
+    }],
+  "jsonMD5" : "ûc\rñ][(}\u0011ﬂe8\u0019 ·Ó",
+  "request_time" : "2015-04-30_09.59.46.834"
+}
